@@ -1,2 +1,3 @@
 # gcpq
-confiugre,price,quote solutions for greenet
+confiugre,price,quote solutions for GreeNet
+just
